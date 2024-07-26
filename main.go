@@ -12,6 +12,4 @@ func main(){
 	fmt.Println("perubahan dari cabang ke tiga ")
 
 
-
-	fmt.Println("commit yg mau dibatalkan")
 }
